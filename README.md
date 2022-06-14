@@ -10,4 +10,5 @@
 - Protocolos de comunicação da internet;
 - Pilares da programação Orientada a Objetos;
 - Referências e valores; 
-- Utilização de listas, arrays, LINQ;
+- Utilização de listas e arryas;
+- Criação, leitura e escrita de arquivos com stream;
