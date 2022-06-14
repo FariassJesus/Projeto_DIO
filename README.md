@@ -2,7 +2,7 @@
 
 ### Este repositório se refere ao projeto de código do bootcamp da GFT que estou fazendo.
 
-#### O que aprendi:
+#### O que aprendi no bootcamp:
 
 - Lógica de programação;
 - Pensamento computacional;
